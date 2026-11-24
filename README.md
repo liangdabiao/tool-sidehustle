@@ -162,7 +162,7 @@ cp -r tool-sidehustle ~/.agents/skills/
 
 ### 使用
 
-在你的 Agent（ZCode / Claude Code 等支持 Agent Skill 的智能体）里直接说：
+在你的智能体（支持 Agent Skill 的 AI 编程工具，如 ZCode、Claude Code 等）里直接说：
 
 - 「我想做个小工具副业，帮我从头走一遍选品流程」
 - 「帮我挖掘『在线 图片』相关的工具长尾词」
